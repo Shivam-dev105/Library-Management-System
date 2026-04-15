@@ -1,0 +1,13 @@
+ajax/
+assets/
+includes/config.php
+
+admin/ajax/
+admin/assets/
+admin/includes/config.php
+admin/uploads/
+
+
+user/assets/
+user/includes/config.php
+user/uploads/
